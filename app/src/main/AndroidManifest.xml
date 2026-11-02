@@ -36,6 +36,10 @@
             android:name=".SummaryActivity"
             android:exported="false"
             android:label="@string/title_summary" />
+        <activity
+            android:name=".GalleryActivity"
+            android:exported="false"
+            android:label="@string/title_gallery" />
     </application>
 
 </manifest>

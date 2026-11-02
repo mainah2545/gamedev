@@ -4,6 +4,15 @@
     <string name="menu_images">รูปไอเท็ม</string>
     <string name="menu_texts">ข้อความไอเท็ม</string>
     <string name="menu_summary">สรุปการโหลด</string>
+    <string name="menu_gallery">แกลเลอรีรูปภาพ</string>
+    <string name="title_gallery">แกลเลอรี</string>
+    <string name="gallery_counter">%1$d / %2$d</string>
+    <string name="gallery_prev">ก่อนหน้า</string>
+    <string name="gallery_next">ถัดไป</string>
+    <string name="gallery_random">สุ่ม</string>
+    <string name="gallery_error">โหลดไม่สำเร็จ แตะเพื่อลองใหม่</string>
+    <string name="sound_on">เสียง: เปิด</string>
+    <string name="sound_off">เสียง: ปิด</string>
     <string name="title_image_list">รายการรูป</string>
     <string name="title_image_detail">ดูรูป</string>
     <string name="title_text_list">รายการข้อความ</string>

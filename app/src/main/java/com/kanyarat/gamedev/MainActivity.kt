@@ -20,5 +20,8 @@ class MainActivity : AppCompatActivity() {
         findViewById<Button>(R.id.btnSummary).setOnClickListener {
             startActivity(Intent(this, SummaryActivity::class.java))
         }
+        findViewById<Button>(R.id.btnGallery).setOnClickListener {
+            startActivity(Intent(this, GalleryActivity::class.java))
+        }
     }
 }

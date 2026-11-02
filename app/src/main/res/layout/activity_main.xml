@@ -33,6 +33,13 @@
         android:id="@+id/btnSummary"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
         android:text="@string/menu_summary" />
+
+    <Button
+        android:id="@+id/btnGallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_gallery" />
 
 </LinearLayout>

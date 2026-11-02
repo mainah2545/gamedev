@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">gamedev</string>
+    <string name="menu_title">คลังไอเท็มเกม</string>
+    <string name="menu_images">รูปไอเท็ม</string>
+    <string name="menu_texts">ข้อความไอเท็ม</string>
+    <string name="menu_summary">สรุปการโหลด</string>
+    <string name="title_image_list">รายการรูป</string>
+    <string name="title_image_detail">ดูรูป</string>
+    <string name="title_text_list">รายการข้อความ</string>
+    <string name="title_text_detail">ดูข้อความ</string>
+    <string name="title_summary">สรุปการโหลด</string>
+    <string name="loading">กำลังโหลด…</string>
+    <string name="error_load">โหลดไม่สำเร็จ</string>
+    <string name="error_item">ผิดพลาด</string>
+    <string name="retry">ลองใหม่</string>
+    <string name="empty_list">ไม่มีรายการ</string>
+    <string name="invalid_index">ไม่พบรายการที่เลือก</string>
+    <string name="summary_images">รูป: สำเร็จ %1$d / %2$d, ล้มเหลว %3$d</string>
+    <string name="summary_texts">ข้อความ: สำเร็จ %1$d / %2$d, ล้มเหลว %3$d</string>
+    <string name="summary_ok">โหลดครบทุกรายการ</string>
+    <string name="summary_partial">โหลดได้บางส่วน</string>
+    <string name="summary_all_failed">เชื่อมต่อไม่ได้ ตรวจสอบอินเทอร์เน็ตแล้วลองใหม่</string>
 </resources>

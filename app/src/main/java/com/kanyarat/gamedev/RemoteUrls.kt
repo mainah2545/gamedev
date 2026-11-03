@@ -5,7 +5,7 @@ const val EXTRA_INDEX = "item_index"
 data class GameItem(val id: String, val name: String)
 
 object RemoteUrls {
-    private const val ROOT = "https://raw.githubusercontent.com/winterzmr/gamedev/main/assets"
+    private const val ROOT = "https://raw.githubusercontent.com/mainah2545/gamedev/main/assets"
     private const val BASE = "$ROOT/assignment6"
     private const val GALLERY_BASE = "$ROOT/assignment7"
 
